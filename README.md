@@ -4,7 +4,7 @@ Use Google Sheets to keep track of your portfolio anywhere.
 ![Sample Portfolio](/Sample.png)
 
 In order to use this sheet for your own crypto asset tracking follow one of two ways:
-Copy the [existing reference sheet](https://docs.google.com/spreadsheets/d/15k4x3z6tYkptfNcjVg024vtmEK2xNISiIt1wqT0KXto/edit?usp=sharing) into your own drive, and modify the 'Info' tab with your own cryptocurrencies.
+Copy the [existing reference sheet](https://docs.google.com/spreadsheets/d/1gsep4uati3s1aY9YkpmdhlhlPWKPv41nFAAUoD0Nho0/edit?usp=sharing) into your own drive, and modify the 'Info' tab with your own cryptocurrencies.
 Click the green button in the top right to update, or add a 'Trigger' to update automatically (see steps below)
 
 To set up 'triggers' so your sheet updates automatically:
